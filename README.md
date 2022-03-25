@@ -1,6 +1,6 @@
 # sveltekit-example-html-to-image
 
-[Run this example on StackBlitz.](https://stackblitz.com/github/maiertech/sveltekit-example-html-to-image?file=src/routes/index.svelte)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/maiertech/sveltekit-example-html-to-image?file=src/routes/index.svelte)
 
 In this example I test [html-to-image](https://github.com/bubkoo/html-to-image) for client-side image generation. Choose size and pixel ratio and then press **Render as PNG** to replace the blue div with an image.
 
