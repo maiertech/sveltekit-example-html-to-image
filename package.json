@@ -1,6 +1,9 @@
 {
 	"name": "sveltekit-example-template",
+	"description": "Test package html-to-image within SvelteKit.",
 	"version": "0.0.0",
+	"license": "MIT",
+	"repository": "maiertech/sveltekit-example-html-to-image",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
